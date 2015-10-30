@@ -1,0 +1,17 @@
+.some {
+	margin: 6px;
+}
+
+.some > span:first-child {
+	font-weight: bold;
+	
+}
+
+.some > span:last-child {
+	font-size: 22px
+	font-color: red;
+}
+
+.some > div {
+	padding: 6px;
+}
